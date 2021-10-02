@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gautam-gupta-1322
-)](https://git.io/streak-stats)&theme=highcontrast
+)](https://git.io/streak-stats&theme=highcontrast)
 
