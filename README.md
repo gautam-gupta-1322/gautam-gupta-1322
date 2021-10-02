@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gautam-gupta-1322&theme=tokyonight_duo)](https://git.io/streak-stats)
+/n
 ![Gautam's GitHub stats](https://github-readme-stats.vercel.app/api?username=gautam-gupta-1322&show_icons=true&theme=tokyonight)
 
 
